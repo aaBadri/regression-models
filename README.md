@@ -3,7 +3,6 @@ All famous regression models and cost function optimization algorithms will be i
 ### TODO:
 ## Regressions
 - [ ] Linear
-- [ ] Mini-batch Gradient Descent
 - [ ] Polynomial
 - [ ] Ridge
 - [ ] Lasso
@@ -13,7 +12,8 @@ All famous regression models and cost function optimization algorithms will be i
 - [ ] Softmax
 
 ## Optimization Algorithms
-- [ ] Gradiant Descent
 - [ ] The Normal Equation
+- [ ] Gradiant Descent
 - [ ] Batch Gradient Descent
 - [ ] Stochastic Gradient Descent
+- [ ] Mini-batch Gradient Descent
