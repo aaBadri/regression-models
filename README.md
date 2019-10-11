@@ -1,5 +1,5 @@
-# all-regression-models
-All regression models and optimization algorithms for minimizing the cost functions will be implemented in this repository gradually.
+# Regression Models
+All famous regression models and cost function optimization algorithms will be implemented in this repository gradually.
 ### TODO:
 ## Regressions
 - [ ] Linear
